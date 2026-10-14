@@ -1,7 +1,7 @@
 
 # LLMOps FrameWork — Insurance Denial Analysis and Recovery Assistant
 
-> **Requirements specification (cahier des charges) — version 2.0, 14 October 2026**
+> **Requirements specification**
 > Status: proposed, for stakeholder review. Replaces version 1.1.
 
 An AI assistant that reads an insurer's refusal to pay a medical bill, explains why it was refused, shows the proof, and suggests what a human reviewer should do next — plus the LLMOps process that tests, releases, monitors and safely improves it.
